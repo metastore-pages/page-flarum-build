@@ -13,14 +13,8 @@ h1, h2, h3, h4, h5, h6 {
 	text-transform: uppercase;
 }
 
-.navbar {
+.hero-head,
+.hero-foot {
+	font-family: 'Roboto Condensed', sans-serif;
 	text-transform: uppercase;
-	.navbar-menu {
-		.navbar-start,
-		.navbar-end {
-			> .navbar-item {
-				font-family: 'Roboto Condensed', sans-serif;
-			}
-		}
-	}
 }
