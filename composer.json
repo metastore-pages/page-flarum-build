@@ -27,10 +27,6 @@
 		"wiki": "https://webmasters.wiki",
 		"source": "https://gitlab.com/metastore/pages/page-flarum-build"
 	},
-	"require": {
-		"php": ">=7.2.0",
-		"metastore/app-kernel": "@dev"
-	},
 	"config": {
 		"preferred-install": "dist",
 		"sort-packages": true
